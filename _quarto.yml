@@ -1,0 +1,22 @@
+project:
+  title: "Reproducible R + LLM Training Module"
+  output-dir: outputs
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: show
+    code-tools: true
+    highlight-style: github
+  pdf:
+    toc: true
+    number-sections: true
+    highlight-style: github
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  cache: true
