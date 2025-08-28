@@ -1,0 +1,31 @@
+post_id,text,sentiment,sentiment_confidence,topic,word_count,character_count,hashtag_count,mention_count,timestamp,engagement_score
+POST_001,Just finished my first machine learning course! The possibilities with AI are incredible. Can't wait to start my next project. #MachineLearning #AI,Positive,0.667,Technology,22,147,2,0,2024-01-01,23
+POST_002,Climate change is happening faster than we thought. The new research about coral bleaching is devastating but important to share.,Negative,0.675,Environment,20,129,0,0,2024-01-03,44
+POST_003,Virtual reality in education is a game changer! My kids learned more about ancient Rome in 30 minutes of VR than weeks of textbooks.,Neutral,0.562,Technology,24,132,0,0,2024-01-05,67
+POST_004,Concerns about data privacy are growing. Companies need to be more transparent about how they use our personal information.,Neutral,0.557,Society,19,123,0,0,2024-01-07,21
+POST_005,Breakthrough in quantum computing! Scientists achieved a new milestone that could revolutionize cryptography and drug discovery.,Positive,0.868,Technology,16,128,0,0,2024-01-09,76
+POST_006,The healthcare system needs urgent reform. Too many people can't afford basic medical care in 2024.,Neutral,0.663,Healthcare,16,99,0,0,2024-01-11,33
+POST_007,Solar panel efficiency has improved dramatically. My neighbor's new panels generate 40% more energy than previous generation.,Positive,0.715,Environment,17,125,0,0,2024-01-13,63
+POST_008,Cybersecurity threats are evolving rapidly. Businesses must invest in better protection or risk devastating breaches.,Negative,0.722,Technology,15,117,0,0,2024-01-15,51
+POST_009,Gene therapy shows promise for treating rare diseases. Hopeful this technology becomes more accessible to patients worldwide.,Positive,0.783,Healthcare,17,125,0,0,2024-01-17,57
+POST_010,Urban planning should prioritize pedestrians and cyclists over cars. Cities become more livable with sustainable transportation.,Neutral,0.468,Technology,16,128,0,0,2024-01-19,25
+POST_011,Disappointed by the lack of progress on renewable energy adoption. We need faster transition to clean power sources.,Negative,0.599,Environment,18,116,0,0,2024-01-21,52
+POST_012,Amazing how natural language processing helps with translation. Broke down language barriers for international collaboration.,Positive,0.643,General,15,125,0,0,2024-01-23,42
+POST_013,Microplastics found in drinking water again. Environmental contamination affects everyone's health and wellbeing.,Neutral,0.389,Technology,13,113,0,0,2024-01-25,73
+POST_014,Excited about new developments in autonomous vehicles! Self-driving cars could reduce traffic accidents significantly.,Positive,0.712,Transportation,14,118,0,0,2024-01-27,39
+POST_015,Blockchain technology has potential beyond cryptocurrency. Supply chain transparency could revolutionize many industries.,Positive,0.684,Technology,13,121,0,0,2024-01-29,49
+POST_016,"Mental health awareness is improving, but access to treatment remains challenging for many communities.",Negative,0.797,Technology,14,103,0,0,2024-01-31,44
+POST_017,3D printing revolutionizes manufacturing. Local production reduces shipping costs and environmental impact.,Positive,0.796,Environment,12,107,0,0,2024-02-02,57
+POST_018,Concerned about algorithm bias in hiring processes. AI systems can perpetuate unfair discrimination if not carefully designed.,Negative,0.746,Technology,17,126,0,0,2024-02-04,74
+POST_019,Space exploration inspires the next generation of scientists and engineers. Investment in research pays long-term dividends.,Neutral,0.594,General,16,124,0,0,2024-02-06,50
+POST_020,Telemedicine proved valuable during pandemic. Remote healthcare should remain option for routine consultations.,Neutral,0.616,Technology,13,111,0,0,2024-02-08,58
+POST_021,Artificial intelligence helps doctors diagnose diseases earlier. Early detection saves lives and reduces treatment costs.,Neutral,0.489,Healthcare,15,121,0,0,2024-02-10,29
+POST_022,Electric vehicles are becoming mainstream. Charging infrastructure improvements make adoption more practical for everyone.,Neutral,0.491,Technology,14,122,0,0,2024-02-12,51
+POST_023,Worried about job displacement from automation. Society needs programs to retrain workers for emerging roles.,Negative,0.651,Technology,15,109,0,0,2024-02-14,25
+POST_024,Biotechnology advances offer hope for treating cancer. Personalized medicine tailored to individual genetic profiles.,Positive,0.681,Technology,14,117,0,0,2024-02-16,32
+POST_025,Smart cities use data to improve services. Traffic optimization and energy efficiency benefit all residents.,Neutral,0.614,Transportation,15,108,0,0,2024-02-18,74
+POST_026,"Social media algorithms affect mental health, especially for teenagers. Platforms should prioritize user wellbeing over engagement.",Neutral,0.514,Technology,16,131,0,0,2024-02-20,48
+POST_027,Renewable energy storage solutions are improving. Battery technology advances enable reliable clean power systems.,Neutral,0.463,Environment,14,114,0,0,2024-02-22,37
+POST_028,Online education democratizes access to learning. Quality courses available to students regardless of geographic location.,Neutral,0.47,Technology,15,122,0,0,2024-02-24,50
+POST_029,Concerns about surveillance technology and privacy rights. Balance between security and personal freedom needs careful consideration.,Neutral,0.511,Society,16,133,0,0,2024-02-26,22
+POST_030,Precision agriculture uses sensors and AI to optimize crop yields while reducing environmental impact of farming.,Neutral,0.614,Technology,16,113,0,0,2024-02-28,84
